@@ -75,4 +75,7 @@ Type your queries interactively. Try:
 “What is pH?”
 “Explain chatbots.”
 Type bye to exit the conversation.
+
 OUTPUT
+
+<img width="1353" height="461" alt="Image" src="https://github.com/user-attachments/assets/95e7be4b-ef19-4b68-ad3c-5ff701c3f3a3" />
